@@ -1,0 +1,9 @@
+{
+    "name" : "week3",
+    "version" : "1.0.0",
+    "description" : "IBM-Backend week3",
+    "main" : "code1.js",
+    "dependencies": {
+        "express" : "4.x"
+    }
+}
