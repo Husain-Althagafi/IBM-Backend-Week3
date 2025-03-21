@@ -1,6 +1,0 @@
-{
-  "name": "folder2",
-  "version": "1.0.0",
-  "description": "Practice server with express",
-  "main": "index.js"
-}
